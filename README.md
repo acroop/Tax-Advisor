@@ -129,9 +129,3 @@ The application compares capital gains before and after tax-loss harvesting.
 - Duplicate coin tickers are handled using index-based keys.
 - The savings value is displayed only when harvesting reduces the realized net gains.
 - This application is intended for demonstration and educational purposes and should not be considered financial or tax advice.
-
-## Disclaimer
-
-The calculations and results shown in this application are for demonstration purposes only. Tax rules can vary depending on jurisdiction, asset type, holding period, and individual circumstances.
-
-Always consult a qualified tax or financial professional before making investment or tax-related decisions.
