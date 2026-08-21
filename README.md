@@ -30,7 +30,7 @@ A responsive React application that helps users visualize crypto capital gains b
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone "https://github.com/acroop/Tax-Advisor"
 cd Tax-Advisor
 ```
 
