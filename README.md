@@ -98,25 +98,15 @@ src/
 
 ### Main Interface
 
-> Add a screenshot of the main application interface here.
-
-```text
-screenshots/
-└── main-interface.png
-```
-
-Example:
-
 ```markdown
-![Tax Loss Harvesting Tool](./screenshots/main-interface.png)
+![Main Interface](screenshots/main-interface.png)
 ```
+
 
 ### Holdings Selection
 
-> Add a screenshot showing selected holdings and updated harvesting results.
-
 ```markdown
-![Holdings Selection](./screenshots/holdings-selection.png)
+![Hodings Selection](screenshots/holdings-selection.png)
 ```
 
 ## How It Works
