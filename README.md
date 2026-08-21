@@ -98,16 +98,15 @@ src/
 
 ### Main Interface
 
-```markdown
+
 ![Main Interface](screenshots/main-interface.png)
-```
+
 
 
 ### Holdings Selection
 
-```markdown
 ![Hodings Selection](screenshots/holdings-selection.png)
-```
+
 
 ## How It Works
 
